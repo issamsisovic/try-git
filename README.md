@@ -1,2 +1,2 @@
-# try-git
-dsfdsfs
+# git-public-
+elzero course
